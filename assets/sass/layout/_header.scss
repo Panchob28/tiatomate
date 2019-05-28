@@ -1,0 +1,22 @@
+.header{
+  background-color: $jelly-bean;
+  padding: 12rem;
+}
+
+.header__container{
+  color: $white;
+  text-align: center;
+}
+
+ .header__container__h2{
+   font-family: $raleway;
+   font-size: $xx-large;
+   margin-bottom: 0;
+ }
+
+ .header__container__h1{
+   font-family: $raleway;
+   font-size: $xx-large;
+   font-weight: $bold;
+   margin-top: 0;
+ }

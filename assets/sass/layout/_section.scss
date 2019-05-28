@@ -1,0 +1,108 @@
+
+.section__container1{
+  background-color: $taupe-gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: $white;
+  padding-bottom: 3rem;
+}
+
+.section__container1__img{
+  width: 1200px;
+  padding-top: 5rem;
+}
+
+.section__container1__h6{
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $large;
+}
+
+.section__container1__p{
+padding-left: 30%;
+padding-right: 30%;
+font-weight: $regular;
+}
+
+.section__container2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: $granite-gray;
+  padding-bottom: 3rem;
+}
+
+.section__container2__img{
+  width: 1200px;
+  padding-top: 5rem;
+}
+
+.section__container2__h1{
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $large;
+}
+
+.section__container2__p{
+  padding-left: 29%;
+  padding-right: 29%;
+  font-weight: $regular;
+}
+
+.section__container3{
+  background-color: $jelly-bean;
+  padding: 1rem;
+  color: $white;
+  text-align: center;
+}
+
+.section__container3__h2{
+  font-size: $xx-large;
+  font-weight: $bold;
+}
+
+.section__container4{
+  padding-top: 10rem;
+}
+
+.section__container4__div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 3rem;
+}
+
+.section__container4__div__img{
+  width: 500px;
+}
+
+.section__container4__div__h3{
+  font-size: $large;
+  font-weight: $bold;
+  color: $taupe-gray;
+  padding: 0;
+  margin: 2rem;
+}
+.section__container4__div__p{
+  padding-left: 29%;
+  padding-right: 23%;
+  font-weight: $regular;
+  color: $taupe-gray;
+  font-size: $medium;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 1rem;
+}
+
+.section__container{
+  background-color: $jelly-bean;
+  text-align: center;
+}
+
+.section__container__h2{
+  color: $white;
+  font-size: $x-large;
+  font-weight: $bold;
+  padding-top: 5rem;
+}
