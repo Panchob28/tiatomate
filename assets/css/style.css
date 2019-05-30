@@ -172,4 +172,21 @@ p {
   padding-top: 5rem;
 }
 
+.section__container__buton {
+  margin-right: 1rem;
+  margin-bottom: 3rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  border-radius: 50px;
+  font-size: 50px;
+  color: #686963;
+  background-color: #fff;
+  border-width: thin;
+  font-weight: 700;
+  border-color: #686963;
+  border-style: solid;
+}
+
 /*# sourceMappingURL=style.css.map */
